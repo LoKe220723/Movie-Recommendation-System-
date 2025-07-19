@@ -27,7 +27,3 @@ Model Building
 Collaborative Filtering (Memory-based) using Cosine Similarity or Pearson Correlation to find similar users and recommend movies based on ratings.
 
 Content-Based Filtering using genres to recommend similar movies.
-
-Evaluation
-
-Tested recommendations with sample users to ensure meaningful outputs
