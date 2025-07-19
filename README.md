@@ -1,4 +1,4 @@
-🎬 #Movie Recommendation System
+🎬 Movie Recommendation System
 📌 Objective
 To develop a Movie Recommendation System that accurately suggests movies to users based on their preferences and viewing history, enhancing user experience by reducing search time and increasing personalized content discovery.
 
